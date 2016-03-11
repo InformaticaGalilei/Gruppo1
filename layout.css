@@ -1,0 +1,52 @@
+#sinistra {
+  position: absolute;
+  width: 20%;
+  margin-top: 70pt;
+  margin-left: 100pt;
+  text-align: left;
+  height: 500pt;
+  background-image: url(texture-surface-point-textures_755582.jpg);
+}
+#titolo {
+  text-align: center;
+  width: 100%;
+  margin-left: 0%;
+  margin-top: 10pt;
+  position: absolute;
+  background-image: url(texture-surface-point-textures_755582.jpg);
+}
+#grafico {
+  margin-right: 0%;
+  margin-left: 30%;
+  position: absolute;
+  width: 80%;
+  margin-top: 70pt;
+}
+.titolo {
+  font-style: italic;
+  font-family: Century;
+  font-weight: bold;
+  font-size: 35pt;
+  color: #3333ff;
+  text-align: center;
+}
+.sottotitolo {
+  font-style: italic;
+  font-family: Century;
+  font-weight: bold;
+  font-size: 15pt;
+  color: #3333ff;
+  text-align: center;
+}
+.menu {
+  color: black;
+  font-family: Century;
+  font-size: 13pt;
+  font-style: normal;
+}
+#footer{
+width:20%;
+height: 10pt;
+ margin-bottom: 0pt;
+}
+
